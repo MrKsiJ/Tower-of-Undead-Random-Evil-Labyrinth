@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1068025270622",
+    "firebase_url": "https://tower-of-undead---rel.firebaseio.com",
+    "project_id": "tower-of-undead---rel",
+    "storage_bucket": "tower-of-undead---rel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068025270622:android:fa6a109e6f565914b43fcf",
+        "android_client_info": {
+          "package_name": "com.rel.frame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068025270622-rsb0rem3dp6cotimu0mb7c8c0tk9hpao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF5lj3GL7OSjoNAUo2JfYWY86bAR7iMtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068025270622-rsb0rem3dp6cotimu0mb7c8c0tk9hpao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
